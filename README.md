@@ -10,4 +10,4 @@ python -m venv venv
 Para rodar o código:
 python main.py
 
-![Screenshot](DiagramaDados)
+![Screenshot](DiagramaDados.png)
